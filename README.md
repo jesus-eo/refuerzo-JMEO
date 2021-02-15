@@ -36,3 +36,5 @@ En el 9 para subir la etiqueta a github escribo git push --tag y despues hago un
    Miguel Gutiérrez |https://github.com/MiguelGutierrezParejo
    Francisco fernandez |https://github.com/franciscomfm/refuerzo-fmfm
    Juan Diego Jurado Pimentel |https://github.com/juandiegojp
+
+13 Entro el repositorio que quiero añadir, en setting,manage access, invite a collaborator, el nombre del colaborador y add, y a esperar que el colaborador acepte la petición.
